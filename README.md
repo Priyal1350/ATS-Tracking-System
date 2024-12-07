@@ -1,12 +1,15 @@
 # ATS-Tracking-System
 A web app to evaluate resumes against job descriptions using AI, providing feedback, skill improvement suggestions, and match percentages.
+
 __Features__
 Resume parsing and evaluation.
 Job description matching with strengths and weaknesses.
 Personalized skill improvement recommendations.
 Compatibility percentage with keyword analysis.
+
 __Technologies Used__
 Streamlit, Python, pdf2image, Google Gemini AI, dotenv.
+
 __Setup__
  1. Clone the repository:
     git clone <repository-url>
